@@ -1,2 +1,2 @@
-# Euro-Truck-Simulator-2-Cheats
-ETS 2 Cheats
+# Euro-Truck-Simulator-2-Cheats for Cheat Engine
+ETS 2 Cheats for Cheat Engine
